@@ -1,2 +1,3 @@
 hi i am learning git.
 this is my first experience using git.
+I am learning it.
